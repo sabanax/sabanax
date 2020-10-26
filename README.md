@@ -1,3 +1,1 @@
-<body bgcolor="black">
-  <a style='color: white;'>test</a>
-</body>
+<h1 style='text-align:center; color: red;'>Sabanax's Github</h1>
